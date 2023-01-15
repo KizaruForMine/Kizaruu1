@@ -1,0 +1,144 @@
+/* html */
+html{
+    padding: 0;
+    margin: 0;
+    position: ;
+    width: 100vh;
+    height: 100vh;
+}
+
+/* body */
+body {
+    background-attachment: fixed;
+    position: ;
+    width: 100vh;
+    height: 100vh;
+    margin-top: 0vh;
+    margin-left: 0vh;
+    margin-right: 0vh;
+    margin-bottom: 0vh;
+}
+body {
+    background-image: url(0089.jpg);
+    background-repeat: no-repeat;
+    position: fixed;
+    width: 100vh;
+    height: 100vh;
+    background-size: 100%;
+}
+
+/* tengah */
+.tengah {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    text-decoration: none;
+}
+.container {
+    border: inset;
+    border-radius: 3%;
+    width: 48vh;
+    height: 65vh;
+    margin-top: 9vh;
+    margin-left: 80vh;
+    margin-right: 25vh;
+    backdrop-filter: blur(5px);
+    margin-bottom: 25vh;
+}
+
+/* header */
+.logo1 {
+    color: rgb(0, 255, 242);
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-display: flex;
+    text-decoration: none;
+    margin-top: 15px;
+    margin-left: 18px;
+}
+.logo2 {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-display: flex;
+    text-decoration: none;
+    margin-top: 15px;
+}
+.headr {
+    padding: 0px;
+    margin: 0px;
+    margin-top: 0px;
+    padding-top: 0px;
+    width: 100vh;
+    min-width: 20px;
+    display: flex;
+    backdrop-filter: blur(30px);
+}
+.home {
+    color: rgb(95, 161, 248);
+    text-decoration: none;
+    font-size: 20px;
+    margin:0px;
+    margin-left: 5vh;
+    display: flex;
+    min-width: 20px;
+    width: 10vh;
+}
+.about {
+    color: rgb(95, 161, 248);
+    font-size: 20px;
+    text-decoration: none;
+    min-width: 20px;
+    margin-left: 5vh;
+    width: auto;
+    display: flex;
+}
+.more {
+    color:rgb(95, 161, 248);
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 5vh;
+    display: flex;
+    min-width: 20px;
+    width: auto;
+}
+.fas fa-light fa-globe {
+    margin-left: 5vh;
+    min-width: 20px;
+    text-decoration: none;
+    width: auto;
+    display: 10vh;
+}
+.en {
+    color: rgb(95, 161, 248);
+    padding: 0;
+    margin-left: 0;
+    text-decoration: none;
+    justify-content: center;
+    height: 100px;
+    align-content: center;
+}
+
+/* Isi kotak */
+.isii {
+    position: fixed;
+    margin-left: 2vh;
+    margin-right: 2vh;
+    font-size: 2,2vh;
+    text-align: center;
+    padding: 0;
+    color: rgb(6, 189, 189);
+}
+.gambar {
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    margin-left: 15vh;
+    margin-bottom: 80%;
+}
+img {
+    width: 20vh;
+    height: 20vh;
+    border-radius: 50%;
+    border-style: outset (3px);
+}
